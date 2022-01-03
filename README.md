@@ -1,5 +1,7 @@
 # Unwrap Or Throw (or Die!)
 
+[![Build and Test](https://github.com/alexito4/UnwrapOrThrow/actions/workflows/swift.yml/badge.svg)](https://github.com/alexito4/UnwrapOrThrow/actions/workflows/swift.yml)
+
 🎁 Unwrap an optional or throw an error if nil (or crash the program).
 
 > Not invented here. The idea for **unwrap or die** and **unwrap or throw** has been around in the Swift community for years. You can read all about it in the [references](#References) below.
