@@ -6,6 +6,8 @@
 
 > Not invented here. The idea for **unwrap or die** and **unwrap or throw** has been around in the Swift community for years. You can read all about it in the [references](#References) below.
 
+Read more: [Unwrap Or Throw (or Die)](https://alejandromp.com/blog/unwrap-or-throw-or-die/)
+
 ## Usage
 
 This library provides different facilities to unwrap an `Optional` .
