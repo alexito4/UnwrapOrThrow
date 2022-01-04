@@ -44,7 +44,7 @@ The library comes with a default error: `UnwrapError`. So you can call the metho
 try someWork().unwrapOrThrow()
 ```
 
-## ☠️ Unwrapp or die
+## ☠️ Unwrap or die
 
 Despite the name of the library, you can also crash the program instead of throwing an error.
 
