@@ -1,6 +1,8 @@
 # Unwrap Or Throw (or Die!)
 
 [![Build and Test](https://github.com/alexito4/UnwrapOrThrow/actions/workflows/swift.yml/badge.svg)](https://github.com/alexito4/UnwrapOrThrow/actions/workflows/swift.yml)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Falexito4%2FUnwrapOrThrow%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/alexito4/UnwrapOrThrow)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Falexito4%2FUnwrapOrThrow%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/alexito4/UnwrapOrThrow)
 
 🎁 Unwrap an optional or throw an error if nil (or crash the program).
 
